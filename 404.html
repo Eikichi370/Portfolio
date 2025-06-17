@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0; url=/Portfolio/" />
+    <script>
+      // Redirection JS pour supporter toutes les routes SPA
+      var path = window.location.pathname.replace('/Portfolio', '');
+      var search = window.location.search || '';
+      var hash = window.location.hash || '';
+      window.location.replace('/Portfolio/' + search + hash);
+    </script>
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html> 
