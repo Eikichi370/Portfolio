@@ -83,7 +83,7 @@
   },
   "footer": {
     "slogan": "Crafting exceptional web and mobile experiences with creativity and precision.",
-    "copyright": "© {year} Youssef Ayad – Shaping the web, one realm at a time.",
+    "copyright": "© {{year}} Youssef Ayad – Shaping the web, one realm at a time.",
     "craftedWith": "Crafted with",
     "and": "and",
     "nav": {

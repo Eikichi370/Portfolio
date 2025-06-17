@@ -83,7 +83,7 @@
   },
   "footer": {
     "slogan": "Créer des expériences web et mobiles exceptionnelles avec créativité et précision.",
-    "copyright": "© {year} Youssef Ayad – Façonner le web, un royaume à la fois.",
+    "copyright": "© {{year}} Youssef Ayad – Façonner le web, un royaume à la fois.",
     "craftedWith": "Réalisé avec",
     "and": "et",
     "nav": {
