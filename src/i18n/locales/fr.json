@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Youssef Ayad",
+    "subtitle": "Développeur Web & Mobile créant des expériences numériques immersives",
+    "cta": "Explorer le Royaume"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "role": "Développeur Web & Mobile",
+    "experience": "3 ans d'expérience",
+    "position": "Développeur Full-Stack",
+    "location": "Disponible Mondialement",
+    "journey": {
+      "title": "Mon Parcours",
+      "description1": "Je suis un développeur full-stack spécialisé dans la création d'applications web et mobiles propres, réactives et dynamiques. Je combine vision créative et architecture de code solide pour donner vie à des idées puissantes.",
+      "description2": "Avec une passion pour la création d'expériences utilisateur fluides, j'ai travaillé sur une gamme diversifiée de projets, des plateformes e-commerce aux applications web complexes. Mon approche se concentre sur l'écriture de code propre et maintenable qui livre des résultats exceptionnels."
+    },
+    "expertise": {
+      "title": "Expertise Technique",
+      "languages": {
+        "title": "Langages",
+        "list": "JavaScript, TypeScript, PHP, Kotlin, Python"
+      },
+      "frontend": {
+        "title": "Frontend",
+        "list": "React, Vue.js, Angular, HTML, CSS"
+      },
+      "backend": {
+        "title": "Backend",
+        "list": "Node.js, Laravel, Spring Boot"
+      },
+      "mobile": {
+        "title": "Mobile",
+        "list": "React Native, Android (Kotlin)"
+      }
+    },
+    "cta": "Me Contacter"
+  },
+  "projects": {
+    "title": "Mes Projets",
+    "viewProject": "Voir le Projet",
+    "description": "Découvrez une sélection de mes projets récents",
+    "featured": "Projets Mis en Avant"
+  },
+  "skills": {
+    "title": "Mes Compétences",
+    "description": "Un aperçu de mes compétences techniques et professionnelles",
+    "categories": {
+      "all": "Toutes",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "tools": "Outils"
+    }
+  },
+  "contact": {
+    "title": "Me Contacter",
+    "subtitle": "Entrer en contact",
+    "intro": "Prêt à démarrer votre prochain projet ? Envoyez-moi un message et créons quelque chose d'incroyable ensemble.",
+    "form": {
+      "name": "Nom",
+      "namePlaceholder": "Entrez votre nom",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "Entrez votre adresse e-mail",
+      "message": "Message",
+      "messagePlaceholder": "Entrez votre message",
+      "send": "Envoyer le message",
+      "sending": "Envoi...",
+      "success": "Merci pour votre message ! Je vous répondrai bientôt."
+    },
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer le Message",
+    "description": "N'hésitez pas à me contacter pour discuter de vos projets"
+  },
+  "footer": {
+    "slogan": "Créer des expériences web et mobiles exceptionnelles avec créativité et précision.",
+    "copyright": "© {year} Youssef Ayad – Façonner le web, un royaume à la fois.",
+    "craftedWith": "Réalisé avec",
+    "and": "et",
+    "nav": {
+      "home": "Accueil",
+      "about": "À propos",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "contact": "Contact"
+    }
+  }
+} 

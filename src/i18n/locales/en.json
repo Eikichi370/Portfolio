@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Youssef Ayad",
+    "subtitle": "Web & Mobile Developer crafting immersive digital experiences",
+    "cta": "Explore the Realm"
+  },
+  "about": {
+    "title": "About Me",
+    "role": "Web & Mobile Developer",
+    "experience": "3 Years Experience",
+    "position": "Full-Stack Developer",
+    "location": "Available Worldwide",
+    "journey": {
+      "title": "My Journey",
+      "description1": "I'm a full-stack developer specializing in building clean, responsive, and dynamic web & mobile applications. I combine creative vision with solid code architecture to bring powerful ideas to life.",
+      "description2": "With a passion for creating seamless user experiences, I've worked on a diverse range of projects from e-commerce platforms to complex web applications. My approach focuses on writing clean, maintainable code that delivers exceptional results."
+    },
+    "expertise": {
+      "title": "Technical Expertise",
+      "languages": {
+        "title": "Languages",
+        "list": "JavaScript, TypeScript, PHP, Kotlin, Swift, Python"
+      },
+      "frontend": {
+        "title": "Frontend",
+        "list": "React, Vue.js, Angular, HTML, CSS"
+      },
+      "backend": {
+        "title": "Backend",
+        "list": "Node.js, Laravel, Spring Boot"
+      },
+      "mobile": {
+        "title": "Mobile",
+        "list": "React Native, Android (Kotlin)"
+      }
+    },
+    "cta": "Get in Touch"
+  },
+  "projects": {
+    "title": "My Projects",
+    "viewProject": "View Project",
+    "description": "Discover a selection of my recent projects",
+    "featured": "Featured Projects"
+  },
+  "skills": {
+    "title": "My Skills",
+    "description": "An overview of my technical and professional skills",
+    "categories": {
+      "all": "All",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "tools": "Tools"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Get in Touch",
+    "intro": "Ready to start your next project? Send me a message and let's create something amazing together.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email address",
+      "emailPlaceholder": "Enter your email address",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you for your message! I'll get back to you soon."
+    },
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "description": "Feel free to contact me to discuss your projects"
+  },
+  "footer": {
+    "slogan": "Crafting exceptional web and mobile experiences with creativity and precision.",
+    "copyright": "© {year} Youssef Ayad – Shaping the web, one realm at a time.",
+    "craftedWith": "Crafted with",
+    "and": "and",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects",
+      "skills": "Skills",
+      "contact": "Contact"
+    }
+  }
+} 
