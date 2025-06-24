@@ -22,16 +22,16 @@ const projects: Project[] = [
     description: "Application web pour l'apprentissage des langues avec des jeux et des quiz interactifs.",
     category: "web",
     image: "https://raw.githubusercontent.com/Eikichi370/LingoRingo/main/public/preview.png",
-    technologies: ["React", "Node.js", "MongoDB"],
+    technologies: ["Angular", "Spring Boot", "MariaDB"],
     githubUrl: "https://github.com/Eikichi370/LingoRingo"
   },
   {
     id: 2,
     title: "ReserVite",
-    description: "Plateforme de réservation en ligne pour restaurants et événements.",
+    description: "Plateforme de réservation en ligne de chambres d'hôtel à thème.",
     category: "web",
     image: "https://raw.githubusercontent.com/Eikichi370/ReserVite/main/public/preview.png",
-    technologies: ["React", "Express", "MongoDB"],
+    technologies: ["ASP.NET", "C#", "SQL Server"],
     githubUrl: "https://github.com/Eikichi370/ReserVite"
   },
   {
@@ -49,7 +49,7 @@ const projects: Project[] = [
     description: "API RESTful pour gérer les données de l'application Vinyls Paradise.",
     category: "backend",
     image: "/images/api_vinylparadise.png",
-    technologies: ["Node.js", "Express", "MongoDB"],
+    technologies: ["Spring Boot", "Java", "MariaDB"],
     githubUrl: "https://github.com/Eikichi370/API-VinylParadise"
   },
   {
