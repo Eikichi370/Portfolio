@@ -155,13 +155,9 @@ const SkillsSection = () => {
               <div className="w-full bg-lol-darker rounded-full h-2.5 mb-2">
                 <div 
                   className="bg-gradient-to-r from-lol-gold-dark to-lol-gold h-2.5 rounded-full"
-                  style={{ width: `${skill.level}%` }}
+                  style={{ width: `100%` }}
                 ></div>
               </div>
-              
-              <span className="text-sm text-muted-foreground">
-                {skill.level}%
-              </span>
             </div>
           ))}
         </div>
