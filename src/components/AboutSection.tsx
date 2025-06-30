@@ -39,7 +39,16 @@ const AboutSection = () => {
                   </svg>
                 </a>
               </div>
-              
+              {/* Bouton de téléchargement du CV */}
+              <a
+                href="/cv_youssef_ayad.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="arcane-button w-full inline-block text-center mb-4"
+                download
+              >
+                Télécharger mon CV
+              </a>
               <div className="border-t border-lol-gold-dark/50 pt-4">
                 <div className="flex items-center mb-2">
                   <Star className="text-lol-gold mr-2" size={18} />
